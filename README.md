@@ -66,7 +66,7 @@ The dataset contains air quality measurements (CO, NOx, NO2) and weather paramet
 
 ## Results
 
-  - **Spatial Distribution**: The spatial analysis reveals significant variations in air quality across cities. Pollution hotspots were identified in urban centers, with the highest concentrations of CO and NOx in densely populated areas.
+  ## **Spatial Distribution**: The spatial analysis reveals significant variations in air quality across cities. Pollution hotspots were identified in urban centers, with the highest concentrations of CO and NOx in densely populated areas.
 ![Pollution Map](images/Air%20Quality%20Map.png)
 *Screenshot 1: Air Quality Map.*
 
