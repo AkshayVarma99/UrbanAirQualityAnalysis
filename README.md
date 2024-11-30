@@ -83,7 +83,7 @@ The dataset contains air quality measurements (CO, NOx, NO2) and weather paramet
   The OLS regression model produced an R-squared value of 1.000, indicating a perfect fit. However, issues like multicollinearity and a low Durbin-Watson statistic suggest potential violations of model   
   assumptions.
   
-  ![OLS Regression Summary](images/OLS%20Regression.png)
+  ![OLS Regression Summary](images/OLS%20Regression%20.png)
   
   *Screenshot 3: OLS Regression Summary.*
   
