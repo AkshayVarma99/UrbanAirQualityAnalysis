@@ -70,17 +70,21 @@ The dataset contains air quality measurements (CO, NOx, NO2) and weather paramet
   The spatial analysis reveals significant variations in air quality across cities. Pollution hotspots were identified in urban centers, with the highest concentrations of CO and NOx in densely populated areas.
   
   ![Pollution Map](images/Air%20Quality%20Map.png)
+  
   *Screenshot 1: Air Quality Map.*
   
 
+
  ![Summary of Spatial Regression](images/Summary%20of%20Spatial%20Regression.png)
+ 
  *Screenshot 2: Summary of Spatial Regression.*
 
   ## Statistical Analysis: 
   The OLS regression model produced an R-squared value of 1.000, indicating a perfect fit. However, issues like multicollinearity and a low Durbin-Watson statistic suggest potential violations of model   
   assumptions.
   
-  ![OLS Regression Summary](images/OLS%20Regression.png)
+  ![OLS Regression Summary](images/OLS%20Regression%Summary.png)
+  
   *Screenshot 3: OLS Regression Summary.*
   
 
@@ -97,6 +101,7 @@ This project demonstrates the power of combining geospatial analysis and Python 
 - Interactive maps and visualizations simplify communication of findings.
 - 
 ![Geospatial Patterns of CO(GT) and C6H6(GT) in High Air Pollution Cities](images/Geospatial%20Patterns%20of%20CO%20and%20C6H6.png)
+
 *Screenshot 4: Geospatial Patterns of CO(GT) and C6H6(GT) in High Air Pollution Cities.*
   
 **Key Takeaways**:
